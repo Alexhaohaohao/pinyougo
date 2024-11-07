@@ -974,13 +974,13 @@ input {
     padding-left: 7px;
 }
 
-.box-big{
+.box-big {
     position: relative;
     top: 41px;
     width: 100%;
 }
 
-.box-big h3{
+.box-big h3 {
     color: rgb(34, 34, 34);
 }
 
@@ -996,7 +996,7 @@ input {
     background-color: rgb(249, 249, 249);
 }
 
-.box-big .list{
+.box-big .list {
     width: 180px;
     height: 101px;
     position: absolute;
@@ -1048,36 +1048,36 @@ input {
     left: 210px;
 }
 
-.box-big .lun .text-lun{
+.box-big .lun .text-lun {
     position: absolute;
     left: 31px;
     top: 38px;
 }
 
-.box-big .lun .text-lun h3{
+.box-big .lun .text-lun h3 {
     font-size: 18px;
     font-weight: normal;
 }
 
-.box-big .lun .text-lun p{
+.box-big .lun .text-lun p {
     font-size: 16px;
     font-weight: normal;
 }
 
-.box-big .lun .tea{
+.box-big .lun .tea {
     position: absolute;
     top: 112px;
     left: 50px;
     color: rgb(8, 107, 124);
 }
 
-.box-big .lun .tea .sh{
+.box-big .lun .tea .sh {
     position: relative;
     top: -15px;
     right: -25px;
 }
 
-.box-big .lun .point-white-1{
+.box-big .lun .point-white-1 {
     position: absolute;
     left: 142px;
     bottom: 16px;
@@ -1087,7 +1087,7 @@ input {
     background-color: rgb(255, 255, 255);
 }
 
-.box-big .lun .point-black-1{
+.box-big .lun .point-black-1 {
     position: absolute;
     left: 159px;
     bottom: 16px;
@@ -1098,7 +1098,7 @@ input {
 
 }
 
-.box-big .lun .point-black-2{
+.box-big .lun .point-black-2 {
     position: absolute;
     left: 177px;
     bottom: 16px;
@@ -1108,7 +1108,7 @@ input {
     background-color: rgb(61, 61, 61);
 }
 
-.box-big .nav-box3{
+.box-big .nav-box3 {
     position: absolute;
     left: 540px;
     top: 0px;
@@ -1118,7 +1118,7 @@ input {
     border-right: 1px solid rgb(236, 236, 236);
 }
 
-.box-big .nav-box4{
+.box-big .nav-box4 {
     position: absolute;
     left: 540px;
     top: 180px;
@@ -1128,7 +1128,7 @@ input {
     border-right: 1px solid rgb(236, 236, 236);
 }
 
-.box-big .nav-box5{
+.box-big .nav-box5 {
     position: absolute;
     left: 760px;
     top: 0px;
@@ -1138,31 +1138,31 @@ input {
     border-right: 1px solid rgb(236, 236, 236);
 }
 
-.box-big .nav-box5 .text{
+.box-big .nav-box5 .text {
     position: absolute;
     left: 33px;
     top: 72px;
 }
 
-.box-big .nav-box5 .text h3{
+.box-big .nav-box5 .text h3 {
     font-size: 18px;
     font-weight: normal;
 }
 
-.box-big .nav-box5 .text p{
+.box-big .nav-box5 .text p {
     font-size: 16px;
     font-weight: normal;
     position: relative;
     top: -10px;
 }
 
-.box-big .nav-box5 img{
+.box-big .nav-box5 img {
     position: absolute;
     left: 23px;
     top: 194px;
 }
 
-.box-big .nav-box6{
+.box-big .nav-box6 {
     position: absolute;
     right: 0px;
     top: 0px;
@@ -1172,7 +1172,7 @@ input {
     border-right: 1px solid rgb(236, 236, 236);
 }
 
-.box-big .nav-box7{
+.box-big .nav-box7 {
     position: absolute;
     right: 0px;
     top: 185px;
@@ -1182,13 +1182,13 @@ input {
     border-right: 1px solid rgb(236, 236, 236);
 }
 
-.box-big .box-min img{
+.box-big .box-min img {
     position: absolute;
     right: 0px;
     bottom: 0px;
 }
 
-.box-big .box-min .text{
+.box-big .box-min .text {
     position: absolute;
     left: 20px;
     top: 25px;
@@ -1196,62 +1196,62 @@ input {
 }
 
 
-.box-big .box-min2 .text h3{
+.box-big .box-min2 .text h3 {
     font-weight: normal;
     font-size: 16px;
 
 }
 
-.box-big .box-min2 img{
+.box-big .box-min2 img {
     position: absolute;
     right: 0px;
     bottom: 0px;
 }
 
-.box-big .box-min2 .text h3{
+.box-big .box-min2 .text h3 {
     font-weight: normal;
     font-size: 16px;
 
 }
 
-.box-big .box-min2 .text p{
+.box-big .box-min2 .text p {
     font-size: 14px;
     color: rgb(177, 25, 26);
     position: relative;
     top: -15px;
 }
 
-.box-big .box-min2 .text{
+.box-big .box-min2 .text {
     position: absolute;
     left: 17px;
     top: 20px;
     z-index: 1;
 }
 
-.box-big .box-min .text h3{
+.box-big .box-min .text h3 {
     font-weight: normal;
     font-size: 16px;
 
 }
 
-.box-big .box-min .text p{
+.box-big .box-min .text p {
     font-size: 14px;
     color: rgb(177, 25, 26);
     position: relative;
     top: -15px;
 }
 
-.box-big .nav-tag{
+.box-big .nav-tag {
     display: flex;
     flex-wrap: nowrap;
     position: absolute;
-    top:385px;
+    top: 385px;
     height: 60px;
     width: 100%;
     background-color: rgb(247, 247, 247);
 }
 
-.box-big .nav-tag li{
+.box-big .nav-tag li {
     margin-top: 10px;
     float: left;
     height: 20px;
@@ -1260,66 +1260,58 @@ input {
     border-right: 1px dashed rgb(204, 204, 204);
 }
 
-.box-big .nav-tag .blueair{
+.box-big .nav-tag .blueair {
     background-image: url(/img/im/dianqi-logo.png);
     background-position: -0px -7px;
     margin-left: 4px;
 }
 
-.box-big .nav-tag .flyco{
+.box-big .nav-tag .flyco {
     background-position: -117px -7px;
     background-image: url(/img/im/dianqi-logo.png);
 }
 
-.box-big .nav-tag .midea{
+.box-big .nav-tag .midea {
     background-image: url(/img/im/dianqi-logo.png);
     background-position: -240px -7px;
 }
 
-.box-big .nav-tag .gree{
+.box-big .nav-tag .gree {
     background-image: url(/img/im/dianqi-logo.png);
     background-position: -361px -7px;
 }
 
-.box-big .nav-tag .tcl{
+.box-big .nav-tag .tcl {
     background-image: url(/img/im/dianqi-logo.png);
     background-position: -482px -7px;
 }
 
-.box-big .nav-tag .hisense{
+.box-big .nav-tag .hisense {
     background-image: url(/img/im/dianqi-logo.png);
     background-position: -603px -7px;
 }
 
-.box-big .nav-tag .changhong{
+.box-big .nav-tag .changhong {
     background-image: url(/img/im/dianqi-logo.png);
     background-position: -724px -7px;
 }
 
-.box-big .nav-tag .philips{
+.box-big .nav-tag .philips {
     background-image: url(/img/im/dianqi-logo.png);
     background-position: -843px -7px;
 }
 
-.box-big .nav-tag .vanward{
+.box-big .nav-tag .vanward {
     background-image: url(/img/im/dianqi-logo.png);
     background-position: -966px -7px;
 }
 
-.box-big .nav-tag .simens{
+.box-big .nav-tag .simens {
     background-image: url(/img/im/dianqi-logo.png);
     background-position: -1087px -7px;
     border-right: none;
 }
 
-.nav-phone {
-    width: 100%;
-    height: 40px;
-    line-height: 40px;
-    border-bottom: 2px solid rgb(200, 22, 35);
-    position: absolute;
-    top: 1120px;
-}
 
 .box6 .nav-dianqi-left {
     line-height: 40px;
@@ -1349,12 +1341,16 @@ input {
     padding-left: 7px;
 }
 
-.box6{
-    position: relative;
-    top: 200px;
+.box6 .lun {
+    background-color: rgb(198, 232, 182);
 }
 
-.box6{
+.box6 .text-tv{
+    position: absolute;
+    left: px;
+}
+
+.box6 {
     position: relative;
     top: 500px;
 }
@@ -1388,12 +1384,12 @@ input {
     padding-left: 7px;
 }
 
-.box7{
+.box7 {
     position: relative;
     top: 200px;
 }
 
-.box7{
+.box7 {
     position: relative;
     top: 1000px;
 }
