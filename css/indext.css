@@ -1261,53 +1261,54 @@ input {
 }
 
 .box-big .nav-tag .blueair {
-    background-image: url(/img/im/dianqi-logo.png);
+    background-image: url(/img/dianqi-logo.png);
     background-position: -0px -7px;
+
     margin-left: 4px;
 }
 
 .box-big .nav-tag .flyco {
     background-position: -117px -7px;
-    background-image: url(/img/im/dianqi-logo.png);
+    background-image: url(/img/dianqi-logo.png);
 }
 
 .box-big .nav-tag .midea {
-    background-image: url(/img/im/dianqi-logo.png);
+    background-image: url(/img/dianqi-logo.png);
     background-position: -240px -7px;
 }
 
 .box-big .nav-tag .gree {
-    background-image: url(/img/im/dianqi-logo.png);
+    background-image: url(/img/dianqi-logo.png);
     background-position: -361px -7px;
 }
 
 .box-big .nav-tag .tcl {
-    background-image: url(/img/im/dianqi-logo.png);
+    background-image: url(/img/dianqi-logo.png);
     background-position: -482px -7px;
 }
 
 .box-big .nav-tag .hisense {
-    background-image: url(/img/im/dianqi-logo.png);
+    background-image: url(/img/dianqi-logo.png);
     background-position: -603px -7px;
 }
 
 .box-big .nav-tag .changhong {
-    background-image: url(/img/im/dianqi-logo.png);
+    background-image: url(/img/dianqi-logo.png);
     background-position: -724px -7px;
 }
 
 .box-big .nav-tag .philips {
-    background-image: url(/img/im/dianqi-logo.png);
+    background-image: url(/img/dianqi-logo.png);
     background-position: -843px -7px;
 }
 
 .box-big .nav-tag .vanward {
-    background-image: url(/img/im/dianqi-logo.png);
+    background-image: url(/img/dianqi-logo.png);
     background-position: -966px -7px;
 }
 
 .box-big .nav-tag .simens {
-    background-image: url(/img/im/dianqi-logo.png);
+    background-image: url(/img/dianqi-logo.png);
     background-position: -1087px -7px;
     border-right: none;
 }
