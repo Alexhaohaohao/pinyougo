@@ -939,25 +939,25 @@ input {
 
 .nav-dianqi {
     width: 100%;
+    height: 40px;
+    line-height: 40px;
     border-bottom: 2px solid rgb(200, 22, 35);
     position: absolute;
     top: 1120px;
 }
 
 .box5 .nav-dianqi-left {
-    position: relative;
-    top: -5px;
+    line-height: 40px;
+    float: left;
 }
 
 .box5 .nav-dianqi-right li {
     float: left;
+    line-height: 40px;
 }
 
 .box5 .nav-dianqi-right {
-    position: absolute;
-    right: 0px;
     float: right;
-    top: -5px;
 }
 
 .box5 .nav-dianqi-right li a {
@@ -974,63 +974,72 @@ input {
     padding-left: 7px;
 }
 
-.box7 {
+.box-big{
     position: relative;
-    top: 911px;
+    top: 41px;
     width: 100%;
 }
 
-.box7 .box-dianqi {
+.box-big h3{
+    color: rgb(34, 34, 34);
+}
+
+.box-big .box-dianqi {
+    position: relative;
     width: 100%;
     height: 365px;
 }
 
-.box7 .tv {
+.box-big .tv {
     width: 210px;
     height: 360px;
     background-color: rgb(249, 249, 249);
 }
 
-.box7 .tv ul li {
-    float: left;
-    position: relative;
-    width: 105px;
-    font-size: 10px;
-    height: 35px;
+.box-big .list{
+    width: 180px;
+    height: 101px;
+    position: absolute;
+    left: 12px;
+    top: -5px;
     text-align: center;
 }
 
-.box7 .tv ul li a {
+.box-big .tv .list li {
+    width: 70px;
+    height: 35px;
     float: left;
-    width: 90px;
-    padding-bottom: 4px;
     border-bottom: 1px solid rgb(237, 237, 237);
-    margin-left: 10px;
+    margin: 0px 10px;
+
 }
 
-.box7 .text-tv {
-    color: rgb(200, 22, 35);
+.box-big .text-tv {
     position: absolute;
-    left: 53px;
     top: 125px;
+    left: 53px;
+    color: rgb(200, 22, 35);
 }
 
-.box7 .tv img {
+.box-big .tv img {
     position: absolute;
     left: 27px;
-    top: 180px;
+    bottom: 24px;
 }
 
-.box7 .tv .text-tv h3 {
+.box-big .tv .text-tv h3 {
     font-size: 18px;
     font-weight: normal;
 }
 
-.box7 .tv .text-tv p {
+.box-big .tv .text-tv p {
     font-size: 12px;
+    position: relative;
+    top: -15px;
+    left: 20px;
 }
 
-.box7 .lun {
+.box-big .lun {
     position: absolute;
     width: 330px;
     height: 360px;
@@ -1039,36 +1048,36 @@ input {
     left: 210px;
 }
 
-.box7 .lun .text-lun{
+.box-big .lun .text-lun{
     position: absolute;
     left: 31px;
     top: 38px;
 }
 
-.box7 .lun .text-lun h3{
+.box-big .lun .text-lun h3{
     font-size: 18px;
     font-weight: normal;
 }
 
-.box7 .lun .text-lun p{
+.box-big .lun .text-lun p{
     font-size: 16px;
     font-weight: normal;
 }
 
-.box7 .lun .tea{
+.box-big .lun .tea{
     position: absolute;
     top: 112px;
     left: 50px;
     color: rgb(8, 107, 124);
 }
 
-.box7 .lun .tea .sh{
+.box-big .lun .tea .sh{
     position: relative;
-    top: -5px;
+    top: -15px;
     right: -25px;
 }
 
-.box7 .lun .point-white-1{
+.box-big .lun .point-white-1{
     position: absolute;
     left: 142px;
     bottom: 16px;
@@ -1078,7 +1087,7 @@ input {
     background-color: rgb(255, 255, 255);
 }
 
-.box7 .lun .point-black-1{
+.box-big .lun .point-black-1{
     position: absolute;
     left: 159px;
     bottom: 16px;
@@ -1089,7 +1098,7 @@ input {
 
 }
 
-.box7 .lun .point-black-2{
+.box-big .lun .point-black-2{
     position: absolute;
     left: 177px;
     bottom: 16px;
@@ -1099,53 +1108,27 @@ input {
     background-color: rgb(61, 61, 61);
 }
 
-
-.box7 .box-min .text{
-    position: absolute;
-    left: 20px;
-    top: 25px;
-    z-index: 1;
-}
-
-.box7  .box-min .text h3{
-    font-size: 16px;
-    font-weight: normal;
-}
-
-.box7 .box-min .text p{
-    font-size: 14px;
-    font-weight: normal;
-    color: rgb(200, 22, 35);
-}
-
-.box7 .box-min img{
-    position: absolute;
-    right: 0px;
-    bottom: 0px;
-    z-index: 0;
-}
-
-.box7 .nav-box3{
+.box-big .nav-box3{
     position: absolute;
     left: 540px;
     top: 0px;
     width: 219px;
-    height: 184px;
+    height: 180px;
     border-bottom: 1px solid rgb(236, 236, 236);
     border-right: 1px solid rgb(236, 236, 236);
 }
 
-.box7 .nav-box4{
+.box-big .nav-box4{
     position: absolute;
     left: 540px;
-    top: 185px;
+    top: 180px;
     width: 219px;
-    height: 175px;
+    height: 180px;
     border-bottom: 1px solid rgb(236, 236, 236);
     border-right: 1px solid rgb(236, 236, 236);
 }
 
-.box7 .nav-box5{
+.box-big .nav-box5{
     position: absolute;
     left: 760px;
     top: 0px;
@@ -1155,29 +1138,31 @@ input {
     border-right: 1px solid rgb(236, 236, 236);
 }
 
-.box7 .nav-box5 .text{
+.box-big .nav-box5 .text{
     position: absolute;
     left: 33px;
     top: 72px;
 }
 
-.box7 .nav-box5 .text h3{
+.box-big .nav-box5 .text h3{
     font-size: 18px;
     font-weight: normal;
 }
 
-.box7 .nav-box5 .text p{
+.box-big .nav-box5 .text p{
     font-size: 16px;
     font-weight: normal;
+    position: relative;
+    top: -10px;
 }
 
-.box7 .nav-box5 img{
+.box-big .nav-box5 img{
     position: absolute;
     left: 23px;
     top: 194px;
 }
 
-.box7 .nav-box6{
+.box-big .nav-box6{
     position: absolute;
     right: 0px;
     top: 0px;
@@ -1187,7 +1172,7 @@ input {
     border-right: 1px solid rgb(236, 236, 236);
 }
 
-.box7 .nav-box7{
+.box-big .nav-box7{
     position: absolute;
     right: 0px;
     top: 185px;
@@ -1197,7 +1182,68 @@ input {
     border-right: 1px solid rgb(236, 236, 236);
 }
 
-.box7 .nav-tag{
+.box-big .box-min img{
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+}
+
+.box-big .box-min .text{
+    position: absolute;
+    left: 20px;
+    top: 25px;
+    z-index: 1;
+}
+
+
+.box-big .box-min2 .text h3{
+    font-weight: normal;
+    font-size: 16px;
+
+}
+
+.box-big .box-min2 img{
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+}
+
+.box-big .box-min2 .text h3{
+    font-weight: normal;
+    font-size: 16px;
+
+}
+
+.box-big .box-min2 .text p{
+    font-size: 14px;
+    color: rgb(177, 25, 26);
+    position: relative;
+    top: -15px;
+}
+
+.box-big .box-min2 .text{
+    position: absolute;
+    left: 17px;
+    top: 20px;
+    z-index: 1;
+}
+
+.box-big .box-min .text h3{
+    font-weight: normal;
+    font-size: 16px;
+
+}
+
+.box-big .box-min .text p{
+    font-size: 14px;
+    color: rgb(177, 25, 26);
+    position: relative;
+    top: -15px;
+}
+
+.box-big .nav-tag{
+    display: flex;
+    flex-wrap: nowrap;
     position: absolute;
     top:385px;
     height: 60px;
@@ -1205,7 +1251,7 @@ input {
     background-color: rgb(247, 247, 247);
 }
 
-.box7 .nav-tag li{
+.box-big .nav-tag li{
     margin-top: 10px;
     float: left;
     height: 20px;
@@ -1214,54 +1260,140 @@ input {
     border-right: 1px dashed rgb(204, 204, 204);
 }
 
-.box7 .nav-tag .blueair{
+.box-big .nav-tag .blueair{
     background-image: url(/img/im/dianqi-logo.png);
     background-position: -0px -7px;
     margin-left: 4px;
 }
 
-.box7 .nav-tag .flyco{
+.box-big .nav-tag .flyco{
     background-position: -117px -7px;
     background-image: url(/img/im/dianqi-logo.png);
 }
 
-.box7 .nav-tag .midea{
+.box-big .nav-tag .midea{
     background-image: url(/img/im/dianqi-logo.png);
     background-position: -240px -7px;
 }
 
-.box7 .nav-tag .gree{
+.box-big .nav-tag .gree{
     background-image: url(/img/im/dianqi-logo.png);
     background-position: -361px -7px;
 }
 
-.box7 .nav-tag .tcl{
+.box-big .nav-tag .tcl{
     background-image: url(/img/im/dianqi-logo.png);
     background-position: -482px -7px;
 }
 
-.box7 .nav-tag .hisense{
+.box-big .nav-tag .hisense{
     background-image: url(/img/im/dianqi-logo.png);
     background-position: -603px -7px;
 }
 
-.box7 .nav-tag .changhong{
+.box-big .nav-tag .changhong{
     background-image: url(/img/im/dianqi-logo.png);
     background-position: -724px -7px;
 }
 
-.box7 .nav-tag .philips{
+.box-big .nav-tag .philips{
     background-image: url(/img/im/dianqi-logo.png);
     background-position: -843px -7px;
 }
 
-.box7 .nav-tag .vanward{
+.box-big .nav-tag .vanward{
     background-image: url(/img/im/dianqi-logo.png);
     background-position: -966px -7px;
 }
 
-.box7 .nav-tag .simens{
+.box-big .nav-tag .simens{
     background-image: url(/img/im/dianqi-logo.png);
     background-position: -1087px -7px;
     border-right: none;
+}
+
+.nav-phone {
+    width: 100%;
+    height: 40px;
+    line-height: 40px;
+    border-bottom: 2px solid rgb(200, 22, 35);
+    position: absolute;
+    top: 1120px;
+}
+
+.box6 .nav-dianqi-left {
+    line-height: 40px;
+    float: left;
+}
+
+.box6 .nav-dianqi-right li {
+    float: left;
+    line-height: 40px;
+}
+
+.box6 .nav-dianqi-right {
+    float: right;
+}
+
+.box6 .nav-dianqi-right li a {
+    padding-right: 7px;
+    padding-left: 7px;
+}
+
+.box6 .nav-dianqi-right li .hot {
+    color: rgb(200, 22, 35);
+}
+
+.box6 .nav-dianqi-right li a span {
+    padding-right: 7px;
+    padding-left: 7px;
+}
+
+.box6{
+    position: relative;
+    top: 200px;
+}
+
+.box6{
+    position: relative;
+    top: 500px;
+}
+
+
+.box7 .nav-dianqi-left {
+    line-height: 40px;
+    float: left;
+}
+
+.box7 .nav-dianqi-right li {
+    float: left;
+    line-height: 40px;
+}
+
+.box7 .nav-dianqi-right {
+    float: right;
+}
+
+.box7 .nav-dianqi-right li a {
+    padding-right: 7px;
+    padding-left: 7px;
+}
+
+.box7 .nav-dianqi-right li .hot {
+    color: rgb(200, 22, 35);
+}
+
+.box7 .nav-dianqi-right li a span {
+    padding-right: 7px;
+    padding-left: 7px;
+}
+
+.box7{
+    position: relative;
+    top: 200px;
+}
+
+.box7{
+    position: relative;
+    top: 1000px;
 }
