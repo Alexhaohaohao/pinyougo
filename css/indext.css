@@ -314,84 +314,85 @@ input {
 .top-box table .icon1 {
     height: 25px;
     width: 25px;
-    background-image: url(/img/icons.png);
+    background-image: url("/img/icons.png");
     background-position: -16px -17px;
 }
 
 .top-box table .icon2 {
     height: 25px;
     width: 25px;
-    background-image: url(/img/icons.png);
+    background-image: url("/img/icons.png");
     background-position: -80px -18px;
+    z-index: 1;
 }
 
 .top-box table .icon3 {
     height: 25px;
     width: 25px;
-    background-image: url(/img/icons.png);
+    background-image: url(""/img/icons.png"");
     background-position: -142px -18px;
 }
 
 .top-box table .icon4 {
     height: 25px;
     width: 25px;
-    background-image: url(/img/icons.png);
+    background-image: url("/img/icons.png");
     background-position: -206px -17px;
 }
 
 .top-box table .icon5 {
     height: 25px;
     width: 25px;
-    background-image: url(/img/icons.png);
+    background-image: url("/img/icons.png");
     background-position: -17px -88px;
 }
 
 .top-box table .icon6 {
     height: 25px;
     width: 25px;
-    background-image: url(/img/icons.png);
+    background-image: url("/img/icons.png");
     background-position: -80px -88px;
 }
 
 .top-box table .icon7 {
     height: 25px;
     width: 25px;
-    background-image: url(/img/icons.png);
+    background-image: url("/img/icons.png");
     background-position: -142px -88px;
 }
 
 .top-box table .icon8 {
     height: 25px;
     width: 25px;
-    background-image: url(/img/icons.png);
+    background-image: url("/img/icons.png");
     background-position: -206px -88px;
 }
 
 .top-box table .icon9 {
     height: 25px;
     width: 25px;
-    background-image: url(/img/icons.png);
+    background-image: url("/img/icons.png");
     background-position: -16px -159px;
 }
 
 .top-box table .icon10 {
     height: 25px;
     width: 25px;
-    background-image: url(/img/icons.png);
+    background-image: url("/img/icons.png");
     background-position: -80px -159px;
 }
 
 .top-box table .icon11 {
     height: 25px;
     width: 25px;
-    background-image: url(/img/icons.png);
+    background-image: url("/img/icons.png");
     background-position: -142px -159px;
 }
 
 .top-box table .icon12 {
     height: 23px;
     width: 23px;
-    background-image: url(/img/icons.png);
+    background-image: url("/img/icons.png");
     background-position: -206px -159px;
 }
 
@@ -750,73 +751,73 @@ input {
 }
 
 .box4 .box4-4 .logo1 {
-    background-image: url(/img/logos.png);
+    background-image: url("/img/logos.png");
     background-position: -6px -2px;
 }
 
 .box4 .box4-4 .logo2 {
-    background-image: url(/img/logos.png);
+    background-image: url("/img/logos.png");
     background-position: -89px -2px;
 }
 
 .box4 .box4-4 .logo3 {
-    background-image: url(/img/logos.png);
+    background-image: url("/img/logos.png");
     background-position: -5px -59px;
 
 }
 
 .box4 .box4-4 .logo4 {
-    background-image: url(/img/logos.png);
+    background-image: url("/img/logos.png");
     background-position: -87px -60px;
 }
 
 .box4 .box4-4 .logo5 {
-    background-image: url(/img/logos.png);
+    background-image: url("/img/logos.png");
     background-position: -5px -119px;
 }
 
 .box4 .box4-4 .logo6 {
-    background-image: url(/img/logos.png);
+    background-image: url("/img/logos.png");
     background-position: -87px -117px;
 }
 
 .box4 .box4-4 .logo7 {
-    background-image: url(/img/logos.png);
+    background-image: url("/img/logos.png");
     background-position: -5px -175px;
 }
 
 .box4 .box4-4 .logo8 {
-    background-image: url(/img/logos.png);
+    background-image: url("/img/logos.png");
     background-position: -88px -175px;
 }
 
 .box4 .box4-4 .logo9 {
-    background-image: url(/img/logos.png);
+    background-image: url("/img/logos.png");
     background-position: -5px -234px;
 }
 
 .box4 .box4-4 .logo10 {
-    background-image: url(/img/logos.png);
+    background-image: url("/img/logos.png");
     background-position: -88px -235px;
 }
 
 .box4 .box4-4 .logo11 {
-    background-image: url(/img/logos.png);
+    background-image: url("/img/logos.png");
     background-position: -5px -290px;
 }
 
 .box4 .box4-4 .logo12 {
-    background-image: url(/img/logos.png);
+    background-image: url("/img/logos.png");
     background-position: -88px -290px;
 }
 
 .box4 .box4-4 .logo13 {
-    background-image: url(/img/logos.png);
+    background-image: url("/img/logos.png");
     background-position: -5px -350px;
 }
 
 .box4 .box4-4 .logo14 {
-    background-image: url(/img/logos.png);
+    background-image: url("/img/logos.png");
     background-position: -88px -350px;
 }
 
