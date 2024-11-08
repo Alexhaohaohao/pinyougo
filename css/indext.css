@@ -997,6 +997,24 @@ input {
     background-color: rgb(249, 249, 249);
 }
 
+.box7 .box-big .tv .text-tv {
+    position: absolute;
+    left: 34px;
+    top: 125px;
+}
+
+.box5 .box-big .tv h3 {
+    color: rgb(177, 25, 26);
+}
+
+.box6 .box-big .tv h3 {
+    color: rgb(177, 25, 26);
+}
+
+.box7 .box-big .tv h3 {
+    color: rgb(177, 25, 26);
+}
+
 .box-big .list {
     width: 180px;
     height: 101px;
@@ -1028,6 +1046,10 @@ input {
     bottom: 24px;
 }
 
+.box6 .box-big .tv img {
+    left: 45px;
+}
+
 .box-big .tv .text-tv h3 {
     font-size: 18px;
     font-weight: normal;
@@ -1038,6 +1060,13 @@ input {
     position: relative;
     top: -15px;
     left: 20px;
+}
+
+.box7 .box-big .tv .text-tv p {
+    font-size: 12px;
+    position: relative;
+    top: -15px;
+    left: 35px;
 }
 
 .box-big .lun {
@@ -1053,16 +1082,51 @@ input {
     position: absolute;
     left: 31px;
     top: 38px;
+
+}
+
+.box7 .box-big .nav-box5 img{
+    position: absolute;
+    left: 43px;
+    top: 183;
+}
+
+.box7 .box-big .tv img {
+    position: absolute;
+    left: 25px;
+}
+
+.box7 .box-big .lun .tea {
+    position: absolute;
+    left: 82px;
 }
 
 .box-big .lun .text-lun h3 {
     font-size: 18px;
     font-weight: normal;
+    color: rgb(177, 25, 26);
+}
+
+.box7 .box-big .lun .text-lun h3 {
+    font-size: 18px;
+    font-weight: normal;
+    color: rgb(135, 77, 117);
+}
+
+.box7 .box-big .lun .text-lun p {
+    position: relative;
+    top: -12px;
+    font-size: 16px;
+    font-weight: normal;
+    color: rgb(135, 77, 117);
 }
 
 .box-big .lun .text-lun p {
+    position: relative;
+    top: -12px;
     font-size: 16px;
     font-weight: normal;
+    color: rgb(177, 25, 26);
 }
 
 .box-big .lun .tea {
@@ -1383,10 +1447,15 @@ input {
     top: 124px;
 }
 
+.box6 .tv img {
+    position: absolute;
+    left: 25px;
+}
+
 .box6 .text-lun {
     position: absolute;
-    left: 32;
-    top: 33;
+    left: 32px;
+    top: 33px;
 }
 
 
@@ -1417,21 +1486,33 @@ input {
     background-color: rgb(198, 232, 182);
 }
 
-.box6 .text-tv {
+.box6 .tv img {
     position: absolute;
-    left: px;
+    left: 25px;
 }
 
 .box6 {
     position: relative;
     top: 500px;
 }
-.box6 .lun .tea{
+
+.box6 .lun .tea {
     position: absolute;
-    left: 95px;
+    left: 93px;
     top: 118px;
 }
 
+.box6 .box-big .nav-box5 img{
+    position: absolute;
+    left: 47px;
+    top: 155px;
+}
+
+.box6 .lun .tea .sh {
+    position: relative;
+    top: -10px;
+    left: 0px;
+}
 
 
 .box7 .nav-dianqi-left {
@@ -1518,8 +1599,6 @@ input {
     background-position: -1087px -20px;
     border-right: none;
 }
-
-
 
 .box7 {
     position: relative;
