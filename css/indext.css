@@ -314,14 +314,14 @@ input {
 .top-box table .icon1 {
     height: 25px;
     width: 25px;
-    background-image: url("/img/icons.png");
+    background-image: url("../img/icons.png");
     background-position: -16px -17px;
 }
 
 .top-box table .icon2 {
     height: 25px;
     width: 25px;
-    background-image: url("/img/icons.png");
+    background-image: url("../img/icons.png");
     background-position: -80px -18px;
     z-index: 1;
 }
@@ -329,70 +329,70 @@ input {
 .top-box table .icon3 {
     height: 25px;
     width: 25px;
-    background-image: url(""/img/icons.png"");
+    background-image: url("../img/icons.png");
     background-position: -142px -18px;
 }
 
 .top-box table .icon4 {
     height: 25px;
     width: 25px;
-    background-image: url("/img/icons.png");
+    background-image: url("../img/icons.png");
     background-position: -206px -17px;
 }
 
 .top-box table .icon5 {
     height: 25px;
     width: 25px;
-    background-image: url("/img/icons.png");
+    background-image: url("../img/icons.png");
     background-position: -17px -88px;
 }
 
 .top-box table .icon6 {
     height: 25px;
     width: 25px;
-    background-image: url("/img/icons.png");
+    background-image: url("../img/icons.png");
     background-position: -80px -88px;
 }
 
 .top-box table .icon7 {
     height: 25px;
     width: 25px;
-    background-image: url("/img/icons.png");
+    background-image: url("../img/icons.png");
     background-position: -142px -88px;
 }
 
 .top-box table .icon8 {
     height: 25px;
     width: 25px;
-    background-image: url("/img/icons.png");
+    background-image: url("../img/icons.png");
     background-position: -206px -88px;
 }
 
 .top-box table .icon9 {
     height: 25px;
     width: 25px;
-    background-image: url("/img/icons.png");
+    background-image: url("../img/icons.png");
     background-position: -16px -159px;
 }
 
 .top-box table .icon10 {
     height: 25px;
     width: 25px;
-    background-image: url("/img/icons.png");
+    background-image: url("../img/icons.png");
     background-position: -80px -159px;
 }
 
 .top-box table .icon11 {
     height: 25px;
     width: 25px;
-    background-image: url("/img/icons.png");
+    background-image: url("../img/icons.png");
     background-position: -142px -159px;
 }
 
 .top-box table .icon12 {
     height: 23px;
     width: 23px;
-    background-image: url("/img/icons.png");
+    background-image: url("../img/icons.png");
     background-position: -206px -159px;
 }
 
@@ -751,73 +751,73 @@ input {
 }
 
 .box4 .box4-4 .logo1 {
-    background-image: url("/img/logos.png");
+    background-image: url("../img/logos.png");
     background-position: -6px -2px;
 }
 
 .box4 .box4-4 .logo2 {
-    background-image: url("/img/logos.png");
+    background-image: url("../img/logos.png");
     background-position: -89px -2px;
 }
 
 .box4 .box4-4 .logo3 {
-    background-image: url("/img/logos.png");
+    background-image: url("../img/logos.png");
     background-position: -5px -59px;
 
 }
 
 .box4 .box4-4 .logo4 {
-    background-image: url("/img/logos.png");
+    background-image: url("../img/logos.png");
     background-position: -87px -60px;
 }
 
 .box4 .box4-4 .logo5 {
-    background-image: url("/img/logos.png");
+    background-image: url("../img/logos.png");
     background-position: -5px -119px;
 }
 
 .box4 .box4-4 .logo6 {
-    background-image: url("/img/logos.png");
+    background-image: url("../img/logos.png");
     background-position: -87px -117px;
 }
 
 .box4 .box4-4 .logo7 {
-    background-image: url("/img/logos.png");
+    background-image: url("../img/logos.png");
     background-position: -5px -175px;
 }
 
 .box4 .box4-4 .logo8 {
-    background-image: url("/img/logos.png");
+    background-image: url("../img/logos.png");
     background-position: -88px -175px;
 }
 
 .box4 .box4-4 .logo9 {
-    background-image: url("/img/logos.png");
+    background-image: url("../img/logos.png");
     background-position: -5px -234px;
 }
 
 .box4 .box4-4 .logo10 {
-    background-image: url("/img/logos.png");
+    background-image: url("../img/logos.png");
     background-position: -88px -235px;
 }
 
 .box4 .box4-4 .logo11 {
-    background-image: url("/img/logos.png");
+    background-image: url("../img/logos.png");
     background-position: -5px -290px;
 }
 
 .box4 .box4-4 .logo12 {
-    background-image: url("/img/logos.png");
+    background-image: url("../img/logos.png");
     background-position: -88px -290px;
 }
 
 .box4 .box4-4 .logo13 {
-    background-image: url("/img/logos.png");
+    background-image: url("../img/logos.png");
     background-position: -5px -350px;
 }
 
 .box4 .box4-4 .logo14 {
-    background-image: url("/img/logos.png");
+    background-image: url("../img/logos.png");
     background-position: -88px -350px;
 }
 
@@ -1254,66 +1254,123 @@ input {
 
 .box-big .nav-tag li {
     margin-top: 10px;
+    margin-bottom: 10px;
     float: left;
-    height: 20px;
     width: 88px;
     padding: 15px 15px;
     border-right: 1px dashed rgb(204, 204, 204);
 }
 
-.box-big .nav-tag .blueair {
-    background-image: url(/img/dianqi-logo.png);
+.box5 .box-big .nav-tag .blueair {
+    background-image: url("../img/dianqi-logo.png");
     background-position: -0px -7px;
 
     margin-left: 4px;
 }
 
-.box-big .nav-tag .flyco {
+.box5 .box-big .nav-tag .flyco {
     background-position: -117px -7px;
-    background-image: url(/img/dianqi-logo.png);
+    background-image: url("../img/dianqi-logo.png");
 }
 
-.box-big .nav-tag .midea {
-    background-image: url(/img/dianqi-logo.png);
+.box5 .box-big .nav-tag .midea {
+    background-image: url("../img/dianqi-logo.png");
     background-position: -240px -7px;
 }
 
-.box-big .nav-tag .gree {
-    background-image: url(/img/dianqi-logo.png);
+.box5 .box-big .nav-tag .gree {
+    background-image: url("../img/dianqi-logo.png");
     background-position: -361px -7px;
 }
 
-.box-big .nav-tag .tcl {
-    background-image: url(/img/dianqi-logo.png);
+.box5 .box-big .nav-tag .tcl {
+    background-image: url("../img/dianqi-logo.png");
     background-position: -482px -7px;
 }
 
-.box-big .nav-tag .hisense {
-    background-image: url(/img/dianqi-logo.png);
+.box5 .box-big .nav-tag .hisense {
+    background-image: url("../img/dianqi-logo.png");
     background-position: -603px -7px;
 }
 
-.box-big .nav-tag .changhong {
-    background-image: url(/img/dianqi-logo.png);
+.box5 .box-big .nav-tag .changhong {
+    background-image: url("../img/dianqi-logo.png");
     background-position: -724px -7px;
 }
 
-.box-big .nav-tag .philips {
-    background-image: url(/img/dianqi-logo.png);
+.box5 .box-big .nav-tag .philips {
+    background-image: url("../img/dianqi-logo.png");
     background-position: -843px -7px;
 }
 
-.box-big .nav-tag .vanward {
-    background-image: url(/img/dianqi-logo.png);
+.box5 .box-big .nav-tag .vanward {
+    background-image: url("../img/dianqi-logo.png");
     background-position: -966px -7px;
 }
 
-.box-big .nav-tag .simens {
-    background-image: url(/img/dianqi-logo.png);
+.box5 .box-big .nav-tag .simens {
+    background-image: url("../img/dianqi-logo.png");
     background-position: -1087px -7px;
     border-right: none;
 }
 
+.box6 .nav-tag {
+    background-image: url("../img/phones.png");
+}
+
+
+.box6 .box-big .nav-tag .blueair {
+    background-image: url("../img/phones.png");
+    background-position: 1px -12px;
+
+    margin-left: 4px;
+}
+
+.box6 .box-big .nav-tag .flyco {
+    background-position: -117px -12px;
+    background-image: url("../img/phones.png");
+}
+
+.box6 .box-big .nav-tag .midea {
+    background-image: url("../img/phones.png");
+    background-position: -240px -12px;
+}
+
+.box6 .box-big .nav-tag .gree {
+    background-image: url("../img/phones.png");
+    background-position: -361px -12px;
+}
+
+.box6 .box-big .nav-tag .tcl {
+    background-image: url("../img/phones.png");
+    background-position: -482px -12px;
+}
+
+.box6 .box-big .nav-tag .hisense {
+    background-image: url("../img/phones.png");
+    background-position: -603px -12px;
+}
+
+.box6 .box-big .nav-tag .changhong {
+    background-image: url("../img/phones.png");
+    background-position: -724px -12px;
+}
+
+.box6 .box-big .nav-tag .philips {
+    background-image: url("../img/phones.png");
+    background-position: -843px -12px;
+}
+
+.box6 .box-big .nav-tag .vanward {
+    background-image: url("../img/phones.png");
+    background-position: -966px -12px;
+}
+
+.box6 .box-big .nav-tag .simens {
+    background-image: url("../img/phones.png");
+    background-position: -1087px -12px;
+    border-right: none;
+}
 
 .box6 .nav-dianqi-left {
     line-height: 40px;
@@ -1358,6 +1415,7 @@ input {
 }
 
 
+
 .box7 .nav-dianqi-left {
     line-height: 40px;
     float: left;
@@ -1391,7 +1449,66 @@ input {
     top: 200px;
 }
 
+.box7 .box-big .nav-tag .blueair {
+    background-image: url("../img/pc.png");
+    background-position: 3px -20px;
+    margin-left: 4px;
+}
+
+.box7 .box-big .nav-tag .flyco {
+    background-position: -117px -20px;
+    background-image: url("../img/pc.png");
+}
+
+.box7 .box-big .nav-tag .midea {
+    background-image: url("../img/pc.png");
+    background-position: -240px -20px;
+}
+
+.box7 .box-big .nav-tag .gree {
+    background-image: url("../img/pc.png");
+    background-position: -361px -20px;
+}
+
+.box7 .box-big .nav-tag .tcl {
+    background-image: url("../img/pc.png");
+    background-position: -482px -20px;
+}
+
+.box7 .box-big .nav-tag .hisense {
+    background-image: url("../img/pc.png");
+    background-position: -603px -20px;
+}
+
+.box7 .box-big .nav-tag .changhong {
+    background-image: url("../img/pc.png");
+    background-position: -724px -20px;
+}
+
+.box7 .box-big .nav-tag .philips {
+    background-image: url("../img/pc.png");
+    background-position: -843px -20px;
+}
+
+.box7 .box-big .nav-tag .vanward {
+    background-image: url("../img/pc.png");
+    background-position: -966px -20px;
+}
+
+.box7 .box-big .nav-tag .simens {
+    background-image: url("../img/pc.png");
+    background-position: -1087px -20px;
+    border-right: none;
+}
+
+
+
 .box7 {
     position: relative;
     top: 1000px;
+}
+
+.box8{
+    height: 10000px;
+    width: 100%;
 }
