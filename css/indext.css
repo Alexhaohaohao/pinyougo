@@ -1085,7 +1085,7 @@ input {
 
 }
 
-.box7 .box-big .nav-box5 img{
+.box7 .box-big .nav-box5 img {
     position: absolute;
     left: 43px;
     top: 183;
@@ -1502,7 +1502,7 @@ input {
     top: 118px;
 }
 
-.box6 .box-big .nav-box5 img{
+.box6 .box-big .nav-box5 img {
     position: absolute;
     left: 47px;
     top: 155px;
@@ -1605,7 +1605,274 @@ input {
     top: 1000px;
 }
 
+.hotbuy {
+    position: absolute;
+    top: 2630px;
+    font-size: 18px;
+}
+
 .box8 {
-    height: 10000px;
+    position: absolute;
+    height: 280px;
+    width: 100%;
+    top: 2655px;
+    border: 1px solid rgb(229, 229, 229);
+    background-color: rgb(255, 255, 255);
+}
+
+.box8 .left-box {
+    left: -1px;
+    top: -1px;
+    position: absolute;
+    height: 280px;
+    width: 240px;
+    border: 1px solid rgb(229, 229, 229);
+}
+
+.box8 .one-1 {
+    position: absolute;
+    left: 240px;
+    top: -1px;
+    width: 219px;
+    height: 139px;
+    border: 1px solid rgb(229, 229, 229);
+}
+
+.box8 .one-2 {
+    position: absolute;
+    left: 240px;
+    bottom: -1px;
+    width: 219px;
+    height: 140px;
+    border: 1px solid rgb(229, 229, 229);
+}
+
+.box8 .two-1 {
+    position: absolute;
+    left: 460px;
+    top: -1px;
+    width: 219px;
+    height: 140px;
+    border: 1px solid rgb(229, 229, 229);
+}
+
+.box8 .two-2 {
+    position: absolute;
+    left: 460px;
+    bottom: -1px;
+    width: 219px;
+    height: 139px;
+    border: 1px solid rgb(229, 229, 229);
+}
+
+.box8 .three-1 {
+    position: absolute;
+    left: 680px;
+    top: -1px;
+    width: 219px;
+    height: 140px;
+    border: 1px solid rgb(229, 229, 229);
+}
+
+.box8 .three-2 {
+    position: absolute;
+    left: 680px;
+    bottom: -1px;
+    width: 219px;
+    height: 139px;
+    border: 1px solid rgb(229, 229, 229);
+}
+
+.box8 .left-box .img {
+    background-image: url(../img/hotbuy.png);
+    width: 168px;
+    height: 132px;
+    background-position: -43px -76px;
+    position: absolute;
+    left: 43px;
+    bottom: 123px;
+}
+
+.box8 .left-box p {
+    position: absolute;
+    left: 29px;
+    bottom: 60px;
+    font-size: 10px;
+}
+
+.box8 .left-box h3 {
+    position: absolute;
+    left: 35px;
+    bottom: 35px;
+    color: rgb(177, 25, 26);
+    font-size: 16px;
+}
+
+.box8 .one-1 .img {
+    position: absolute;
+    left: 12px;
+    top: 33px;
+    height: 100px;
+    width: 100px;
+    background-image: url(../img/hotbuy.png);
+    background-position: -255px -76px;
+}
+
+.box8 .one-1 p {
+    position: absolute;
+    top: 24px;
+    left: 115px;
+    font-size: 10px;
+}
+
+.box8 .one-1 h3 {
+    position: absolute;
+    left: 116px;
+    top: 64px;
+    font-size: 16px;
+    color: rgb(177, 25, 26);
+}
+
+.box8 .one-2 .img {
+    position: absolute;
+    left: 12px;
+    top: 23px;
+    height: 100px;
+    width: 100px;
+    background-image: url(../img/hotbuy.png);
+    background-position: -256px -202px;
+}
+
+.box8 .one-2 p {
+    position: absolute;
+    top: 24px;
+    left: 115px;
+    font-size: 10px;
+}
+
+.box8 .one-2 h3 {
+    position: absolute;
+    left: 116px;
+    top: 64px;
+    font-size: 16px;
+    color: rgb(177, 25, 26);
+}
+
+.box8 .two-1 .img {
+    position: absolute;
+    left: 18px;
+    top: 18px;
+    height: 100px;
+    width: 100px;
+    background-image: url(../img/hotbuy.png);
+    background-position: -480px -61px;
+}
+
+.box8 .two-1 p {
+    position: absolute;
+    top: 24px;
+    left: 115px;
+    font-size: 10px;
+}
+
+.box8 .two-1 h3 {
+    position: absolute;
+    left: 116px;
+    top: 64px;
+    font-size: 16px;
+    color: rgb(177, 25, 26);
+}
+
+.box8 .three-1 .img {
+    position: absolute;
+    left: 12px;
+    top: 23px;
+    height: 100px;
+    width: 100px;
+    background-image: url(../img/hotbuy.png);
+    background-position: -256px -202px;
+}
+
+.box8 .three-1 p {
+    position: absolute;
+    top: 24px;
+    left: 115px;
+    font-size: 10px;
+}
+
+.box8 .three-1 h3 {
+    position: absolute;
+    left: 116px;
+    top: 64px;
+    font-size: 16px;
+    color: rgb(177, 25, 26);
+}
+
+
+.box8 .two-2 .img {
+    position: absolute;
+    left: 12px;
+    top: 23px;
+    height: 100px;
+    width: 100px;
+    background-image: url(../img/hotbuy.png);
+    background-position: -256px -202px;
+}
+
+.box8 .two-2 p {
+    position: absolute;
+    top: 24px;
+    left: 115px;
+    font-size: 10px;
+}
+
+.box8 .two-2 h3 {
+    position: absolute;
+    left: 116px;
+    top: 64px;
+    font-size: 16px;
+    color: rgb(177, 25, 26);
+}
+
+.box8 .three-2 .img {
+    position: absolute;
+    left: 12px;
+    top: 23px;
+    height: 100px;
+    width: 100px;
+    background-image: url(../img/hotbuy.png);
+    background-position: -696px -202px;
+}
+
+.box8 .three-2 p {
+    position: absolute;
+    top: 24px;
+    left: 115px;
+    font-size: 10px;
+}
+
+.box8 .three-2 h3 {
+    position: absolute;
+    left: 116px;
+    top: 64px;
+    font-size: 16px;
+    color: rgb(177, 25, 26);
+}
+
+.box8 .right-box .img {
+    background-image: url(../img/hotbuy.png);
+    background-position: -924px -43px;
+    height: 280px;
+    width: 260px;
+    position: absolute;
+    right: 20px;
+    top: 0px;
+}
+
+.box-end{
+    position: absolute;
+    top: 3475px;
+    background-color: rgb(245, 245, 245);
+    height: 415px;
     width: 100%;
 }
