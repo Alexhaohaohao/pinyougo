@@ -19,8 +19,8 @@
         </div>
         <div class="tishi">
             <h3>
-                <a href="#">注册新用户</a>
-                <p>我有账号，去登陆</p>
+                <a href="#" class="left">注册新用户</a>
+                <p>我有账号，<a href="#">去登陆</a></p>
             </h3>
         </div>
         <form action="">
@@ -29,8 +29,8 @@
                     <td>
                         <p>手机号：</p>
                     </td>
-                    <td><input type="text"></td>
-                    <td>
+                    <td><input type="text" name="phone"></td>
+                    <td class="td3">
                         <div><img src="./img/x.png" alt=""></div>
                         <p>手机号码格式不正确，请从新输入 </p>
                     </td>
@@ -38,15 +38,15 @@
                 <tr>
                     <td>短信验证码：<p></p>
                     </td>
-                    <td><input type="text"></td>
-                    <td></td>
+                    <td><input type="text" name="ma"></td>
+                    <td class="td3"></td>
                 </tr>
                 <tr>
                     <td>
-                        <p>登录密码</p>
+                        <p>登录密码：</p>
                     </td>
-                    <td><input type="text"></td>
-                    <td>
+                    <td><input type="password" name="password"></td>
+                    <td class="td3">
                         <div><img src="./img/x.png" alt=""></div>
                         <p>密码不少于6位数，请从新输入 </p>
                     </td>
@@ -59,26 +59,33 @@
                         <div class="z">中</div>
                         <div class="q">强</div>
                     </td>
+                    <td class="td3"></td>
                 </tr>
                 <tr>
                     <td>
                         <p>确认密码：</p>
                     </td>
                     <td>
-                        <input type="text">
+                        <input type="password" name="password2">
                     </td>
-                    <td>
+                    <td class="td3">
                         <div><img src="./img/x.png" alt=""></div>
                         <p>密码不一致，请从新输入 </p>
                     </td>
                 </tr>
                 <tr>
                     <td></td>
-                    <td><input type="checkbox"> 同意协议并注册<p>《知果果用户协议》</p></td>
+                    <td><input type="checkbox" class="check"> 同意协议并注册<p>《知果果用户协议》</p>
+                    </td>
                     <td></td>
                 </tr>
+                <tr>
+                    <td></td>
+                    <td><button>完成注册</button></td>
+                    <td></td>
+                </tr>
+
             </table>
-            <button>完成注册</button>
         </form>
     </div>
 
