@@ -2051,10 +2051,9 @@ input {
 
 .float-bar {
     position: fixed;
-    top: 350px;
-    left: 270px;
+    right: calc(50% + 610px);
+    top: 340px;
     width: 60px;
-    height: 340px;
     z-index: 1000;
     background-color: rgb(255, 255, 255);
 }
