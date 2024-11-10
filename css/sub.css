@@ -1,0 +1,168 @@
+.box-end {
+    position: absolute;
+    top: 1367px;
+    background-color: rgb(245, 245, 245);
+    height: 415px;
+    width: 100%;
+}
+
+.sub-order .od-hd h2 {
+    font-weight: normal;
+}
+
+.sub-order .od-bd {
+    height: 786px;
+    border: 1px solid #d20000;
+    padding: 20px;
+    font-family: "宋体";
+}
+
+.od-bd .address .name {
+    width: 145px;
+    height: 30px;
+    text-align: center;
+    line-height: 28px;
+    display: inline-block;
+    margin: 15px 0;
+}
+
+.sub-order .redb {
+    border: 2px solid #c81623;
+    display: inline-block;
+}
+
+.od-bd .more {
+    padding-left: 20px;
+
+}
+
+.mg {
+    margin: 20px;
+    border-bottom: 1px solid #dddddd;
+    padding-bottom: 20px;
+}
+
+.pay-ways ul li {
+    width: 100px;
+    height: 30px;
+    border: 1px solid #dddddd;
+    text-align: center;
+    line-height: 28px;
+    display: inline-block;
+}
+
+.pay-ways ul {
+    margin-left: 30px;
+}
+
+.match div {
+    width: 145px;
+    height: 30px;
+    line-height: 30px;
+    border: 1px solid #dddddd;
+    text-align: center;
+    margin-left: 20px;
+    display: inline-block;
+}
+
+.goods-list .gray {
+    background-color: #f4f4f4;
+    padding: 30px;
+    height: 100px;
+}
+
+.goods-list .gray .tt {
+    width: 145px;
+    height: 30px;
+    text-align: center;
+    line-height: 28px;
+    margin: 10px 30px 0 20px;
+    background-color: #fff;
+}
+
+.goods-list .pink {
+    background-color: #feedef;
+    height: 155px;
+    padding: 10px 20px 0 30px;
+
+}
+
+.blue {
+    color: #1474af;
+}
+
+.goods-list .pink div {
+    display: inline-block;
+}
+
+.goods-list .text {
+    padding: 10px 0 0 100px;
+}
+
+.goods-list .pink .fr span {
+    margin-left: 80px;
+}
+
+.goods-list .pink .fr span:first-child {
+    font-weight: bold;
+    font-size: 14px;
+    color: red;
+}
+
+.bill div {
+
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.od-bd>h3 {
+    margin-left: 20px;
+}
+
+/* 结算 */
+.summary-price {
+    height: 97px;
+    position: relative;
+    right: -848px;
+    padding: 15px 0;
+}
+
+.summary-price td {
+    text-align: right;
+    padding-left: 60px;
+}
+
+.last-price {
+    height: 72px;
+    background-color: #f4f4f4;
+    border: 1px solid #dddddd;
+    padding: 10px 35px;
+}
+
+.last-price em {
+    color: red;
+    font-size: 14px;
+    font-weight: bolder;
+}
+
+.sub-order .add {
+    background-color: #c81623;
+    width: 145px;
+    height: 45px;
+    text-align: center;
+    line-height: 45px;
+    color: #fff;
+    font-size: 14px;
+    position: relative;
+    right: -1020px;
+    margin: 25px 0 35px 0;
+}
+
+.pink img{
+    position: relative;
+    top: -15px;
+}
+
+.color-red{
+    color: red;
+}
