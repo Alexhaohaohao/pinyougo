@@ -1,0 +1,48 @@
+.miao {
+    position: absolute;
+    left: 180px;
+    top: 16px;
+    height: 5px;
+    padding: 10px;
+    border-left: 1px solid rgb(222, 222, 222);
+
+}
+
+.miao img {
+    position: absolute;
+    top: -1px;
+}
+
+.main-nav{
+    border-bottom: 2px solid red;
+}
+
+
+.nav .main-nav li {
+    float: left;
+    margin: 0 50px 2px 0;
+    font-size: 14px;
+}
+
+
+
+.nav .main-nav{
+    float: left;
+}
+
+
+.box-end {
+    position: absolute;
+    top: 2500px;
+    background-color: rgb(245, 245, 245);
+    height: 415px;
+    width: 100%;
+}
+
+.bc{
+    position: relative;
+    height: 120px;
+    width: 100%;
+    background-image: url(../img/cart/back1.png);
+    top: 170px;
+}
