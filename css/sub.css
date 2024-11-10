@@ -12,7 +12,7 @@
 
 .sub-order .od-bd {
     height: 786px;
-    border: 1px solid #d20000;
+    border: 1px solid #dcdcdc;
     padding: 20px;
     font-family: "宋体";
 }
@@ -165,4 +165,8 @@
 
 .color-red{
     color: red;
+}
+
+.bill{
+    border-bottom: none;
 }
