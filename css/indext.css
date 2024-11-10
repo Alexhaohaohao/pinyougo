@@ -226,10 +226,20 @@ input {
     color: rgb(255, 255, 255);
 }
 
+.nav-line{
+    position: relative;
+    z-index: 10;
+}
+
+.slide{
+    z-index: 0;
+}
+
 .top-box .lun {
     position: relative;
     top: 9px;
     left: 220px;
+    z-index: 0;
 }
 
 .top-box table {
